@@ -1,0 +1,39 @@
+{
+  "name": "testing-enzyme-jest",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "6.0.0-rc.0",
+    "@angular/core": "6.0.0-rc.0",
+    "@testing-library/jest-dom": "5.11.0",
+    "@testing-library/react": "10.4.6",
+    "cra-template": "1.0.3",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "testing-library": "0.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
